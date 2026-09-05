@@ -8,3 +8,4 @@ media = (nota1 + nota2 + nota3)  / 3
 
 print("Aluno: ", nome)
 print("Média: ", media)
+print("Você é gay")
